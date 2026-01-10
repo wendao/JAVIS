@@ -1,2 +1,15 @@
-# JAVIS
-Just Another Very Intelligent System
+# JAVIS - 你的命令行AI协作者，渣维斯
+
+> Just Another Very Intelligent System - 一个深度集成Bash、理解上下文、具备学习能力的AI科研助手
+
+## 🎯 愿景
+JAVIS不仅是一个工具，而是一个能理解你、学习你、最终在命令行中成为你延伸的智能伙伴。
+
+## ✨ 核心特性
+- 🤖 自然语言转Bash命令
+- 🧠 上下文感知与长期记忆
+- 🔄 从历史中学习并优化建议
+- ⚡️ 安全自动执行复杂任务链
+- 📊 学术工作流深度集成
+
+## 🚀 快速开始
